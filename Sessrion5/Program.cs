@@ -1,10 +1,14 @@
-﻿namespace Sessrion5
+﻿using Common;
+namespace Sessrion5
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region AccessModifiers
+            TypeA obj = new TypeA();
+            obj.z = 10;
+            #endregion
         }
     }
 }
