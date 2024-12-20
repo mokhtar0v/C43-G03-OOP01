@@ -35,6 +35,14 @@ namespace Common
         //4-Internal
         //5-Internal protected
         //6-Public
+
+        //What u can write inside interface
+        //1-Signature for property
+        //2-Signature for method
+        //3-Default implemented method
+
+        //Default access modifier in interface is public
+
         #endregion
         //private is default access modifier
         private int x;
