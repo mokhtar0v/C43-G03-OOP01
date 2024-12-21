@@ -25,6 +25,11 @@ namespace Sessrion5
             }
             else Console.WriteLine("Sorry");
             #endregion
+            #region Struct
+            Point p1 = new Point(4,2); // new just for constructor selection
+            //clr will allocate 8bytes uninitialized at stack
+            Console.WriteLine(p1);
+            #endregion
             #region What is an OOP
 
             #endregion
