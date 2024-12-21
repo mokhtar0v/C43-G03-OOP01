@@ -33,6 +33,15 @@ namespace Sessrion5
             #region What is an OOP
 
             #endregion
+            #region Encapsulation
+            Employee emp = new Employee(10, "Omar", 500);
+            emp.setter("Ali");
+            Console.WriteLine(emp.getter());
+            //emp.ID = 20;
+            //Console.WriteLine(emp);
+            emp.Salary = 100;
+            Console.WriteLine(emp.Salary);
+            #endregion
         }
     }
 }
