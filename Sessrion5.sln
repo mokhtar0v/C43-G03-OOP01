@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessrion5", "Sessrion5\Sess
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{D97FE23E-255B-4ECD-ADE5-DA89AB3077A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment", "Assignment\Assignment.csproj", "{75A64C78-ECBE-4D95-A30E-516AB9D4DC7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D97FE23E-255B-4ECD-ADE5-DA89AB3077A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D97FE23E-255B-4ECD-ADE5-DA89AB3077A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D97FE23E-255B-4ECD-ADE5-DA89AB3077A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A64C78-ECBE-4D95-A30E-516AB9D4DC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A64C78-ECBE-4D95-A30E-516AB9D4DC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A64C78-ECBE-4D95-A30E-516AB9D4DC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A64C78-ECBE-4D95-A30E-516AB9D4DC7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
